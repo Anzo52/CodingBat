@@ -1,2 +1,2 @@
 # CodingBatJava
-codingbat.com java andy python problems
+codingbat.com java and python problems
